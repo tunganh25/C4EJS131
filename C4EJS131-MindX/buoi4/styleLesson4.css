@@ -1,0 +1,24 @@
+li {
+    display: inline-block;
+    border: 10px double darkgoldenrod;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    padding: 5px 10px 5px 10px;
+    margin: 20px;
+}
+#span1 {
+    display: block;
+}
+#div1{
+    width: 200px;
+    height: 100px;
+    border: 3px solid darkblue;
+}
+#div2{
+    width: 200px;
+    height: 100px;
+    border: 6px double darkred;
+    padding: 30px;
+    box-sizing: border-box;
+}

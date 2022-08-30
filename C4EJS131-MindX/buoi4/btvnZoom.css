@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.body {
+    border: 5px solid black;
+    height: auto;
+    margin: 100px 50px;
+    display: block;
+}
+.header {
+    margin: 0 10px 10px;
+}
+.header h1 {
+    margin: 0 0 20px;
+}
+.header span {
+    color: red;
+}
+.box{
+    border: 3px solid blue;
+    margin: 20px 30px;
+    background-color: rgba(165, 149, 246, 0.5);
+    padding: 20px 30px;
+}
+.box h4 {
+    color: blue;
+    font-weight: bold;
+}
+.box span{
+    font-style: italic;
+}
+.box div {
+    color: red; 
+}
